@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/HammerBroInBowserIsBack-Regular.otf",
+      "sha1": "53d99eeb3daa996653e3226a6118fac6a12d68cd"
+    },
+    {
+      "path": "assets/fonts/Heebo-Bold.ttf",
+      "sha1": "20f04863697c0665af13fbb7d7c21af22f31df34"
+    },
+    {
+      "path": "assets/fonts/OPTICivet-Medium.otf",
+      "sha1": "0d92e749a21263be38109a38c1d52cb1c441d009"
+    },
+    {
+      "path": "assets/images/brazil-flag.png",
+      "sha1": "333d2c9cfe4ab278d7fb924ba1ed442c218613f5"
+    },
+    {
+      "path": "assets/images/brazil-flag.svg",
+      "sha1": "8e353b582b8fbcc978a450a704989438b37f15e1"
+    },
+    {
+      "path": "assets/images/zubale-intro-image.svg",
+      "sha1": "e67039257c0b74cd3731e2f9a9136c6861cf5413"
+    },
+    {
+      "path": "assets/images/zubale-intro.png",
+      "sha1": "2831c006c27a97aaa2fd5ab8bf37c3db34a15632"
+    },
+    {
+      "path": "assets/images/zubale-logo.png",
+      "sha1": "ee981568db93d2a0a2dd41c01ec09ca582058e4d"
+    }
+  ]
+}
