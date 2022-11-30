@@ -1,7 +1,7 @@
 <h1 align="center">Zubale UI HomeScreen App Clone</h1>
 
 <p align="center">
-    <img src="./assets/images/screenshot-app.png" width="300" height="520">
+    <img src="./assets/images/screenshot-app.png" width="320" height="500">
 </p>
 
 <h1 align="center">
